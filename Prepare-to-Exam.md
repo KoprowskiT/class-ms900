@@ -28,5 +28,7 @@ You should be familiar with Microsoft 365 licensing, deployment and migration as
 
 
 ## Test your knowledge
-Practice Assessment | Microsoft Learn || MS900 || [Start here}([Practice Assessment for Exam MS-900: Microsoft 365 Fundamentals](https://learn.microsoft.com/en-gb/credentials/certifications/exams/ms-900/practice/assessment?assessment-type=practice&assessmentId=50)
-50 random questions. The limit to passing the certification exam is 70%. If you pass this test at 80%, you should have solid knowledge an)d be ready for the official exam.
+Practice Assessment | Microsoft Learn || MS900 || [Start here]([Practice Assessment for Exam MS-900: Microsoft 365 Fundamentals](https://learn.microsoft.com/en-gb/credentials/certifications/exams/ms-900/practice/assessment?assessment-type=practice&assessmentId=50)
+- 50 random questions
+- - The limit to passing the certification exam is 70%
+  - - If you pass this test at 80%, you should have solid knowledge and be ready for the official exam.
